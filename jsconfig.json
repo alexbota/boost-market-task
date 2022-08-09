@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "target": "es2017",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./",
+    "paths": {
+      "Assets/*": ["src/assets/*"],
+      "Common/*": ["src/common/*"],
+      "Components/*": ["src/components/*"],
+      "Containers/*": ["src/containers/*"],
+      "Hoc/*": ["src/hoc/*"],
+      "Routes/*": ["src/routes"]
+    }
+  },
+  "exclude": ["node_modules", "build"]
+}

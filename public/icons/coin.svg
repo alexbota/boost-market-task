@@ -1,0 +1,32 @@
+<svg width="21" height="22" viewBox="0 0 21 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_525_9050)">
+<g clip-path="url(#clip1_525_9050)">
+<circle r="9.50154" transform="matrix(-4.37114e-08 1 1 4.37114e-08 10.9977 11.0008)" fill="#DC9912"/>
+<circle r="9.50154" transform="matrix(-4.37114e-08 1 1 4.37114e-08 10.9977 11.0008)" stroke="url(#paint0_linear_525_9050)" stroke-width="1.00016"/>
+<circle r="9.50154" transform="matrix(-4.37114e-08 1 1 4.37114e-08 10.9977 11.0008)" stroke="url(#paint1_linear_525_9050)" stroke-width="1.00016"/>
+<path d="M13.3171 7.63667L10.9996 4.66675L8.68212 7.63667L6.98368 6.75057C6.15312 10.0744 5.39653 11.5499 3.99951 14.1183C6.90431 14.6762 7.30115 14.184 10.0472 16.3336L9.34879 11.8046C8.52751 11.7004 7.69438 11.8439 7.15829 12.1164L8.99958 8.68686L10.9996 10.1214L12.9996 8.68686L14.8409 12.1164C14.3048 11.8439 13.4717 11.7004 12.6504 11.8046L11.952 16.3336C14.6981 14.184 15.0949 14.6762 17.9997 14.1183C16.6027 11.5499 15.8461 10.0744 15.0155 6.75057L13.3171 7.63667Z" fill="#FFE09E"/>
+<mask id="mask0_525_9050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="21" height="22">
+<circle r="10.0016" transform="matrix(-4.37114e-08 1 1 4.37114e-08 10.9967 10.9992)" fill="#FFCE20"/>
+</mask>
+<g mask="url(#mask0_525_9050)">
+<circle opacity="0.28" r="12.502" transform="matrix(-4.37114e-08 1 1 4.37114e-08 3.4947 3.49799)" fill="#FFF2D9"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_525_9050" x1="3.50057" y1="7.00468e-08" x2="10.0016" y2="8.50137" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_525_9050" x1="17.5028" y1="18.503" x2="10.0016" y2="8.50138" gradientUnits="userSpaceOnUse">
+<stop offset="0.175" stop-color="#B66D00"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_525_9050">
+<rect width="20.0032" height="20.0045" fill="white" transform="translate(0.996582 0.997803)"/>
+</clipPath>
+<clipPath id="clip1_525_9050">
+<rect width="20.0032" height="20.0045" fill="white" transform="matrix(1 0 0 -1 0.996582 21.0023)"/>
+</clipPath>
+</defs>
+</svg>

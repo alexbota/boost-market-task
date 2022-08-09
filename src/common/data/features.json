@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Appear Offline",
+    "description": "The booster plays offline, so the process is undetectable from your friend list",
+    "icon": "icons/features/ninja.svg"
+  },
+  {
+    "title": "Order Tracking",
+    "description": "Spectate, chat with the booster, and follow your match history in the client's area.",
+    "icon": "icons/features/bag.svg"
+  },
+  {
+    "title": "Secured Data",
+    "description": "Your account remains safe with our automated VPN system.",
+    "icon": "icons/features/shield.svg"
+  },
+  {
+    "title": "Premium Support",
+    "description": "Use our live support to receive premium help whenever you are in need.",
+    "icon": "icons/features/potion.svg"
+  }
+]

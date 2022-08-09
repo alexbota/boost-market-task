@@ -1,0 +1,35 @@
+[
+  {
+    "short_title": "Select Service",
+    "short_description": "Select and customize your desired service.",
+    "icon": "icons/tutorial/selection.svg",
+    "title": "",
+    "description": "",
+    "list": [
+      "Free additional customizations.",
+      "Intuitive and straightforward purchase process."
+    ]
+  },
+  {
+    "short_title": "Complete Payment",
+    "short_description": "Choose your preferred payment method.",
+    "icon": "icons/tutorial/coin-bag.svg",
+    "title": "",
+    "description": "",
+    "list": [
+      "Free additional customizations.",
+      "Intuitive and straightforward purchase process."
+    ]
+  },
+  {
+    "short_title": "Rank up",
+    "short_description": "Follow your order and live chat with your booster.",
+    "icon": "icons/tutorial/rankup.svg",
+    "title": "",
+    "description": "",
+    "list": [
+      "Free additional customizations.",
+      "Intuitive and straightforward purchase process."
+    ]
+  }
+]

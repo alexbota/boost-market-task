@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rank\nBoosting",
+    "icon": "icons/boosts/default.svg"
+  },
+  {
+    "title": "Arena Rank\nBoosting",
+    "icon": "icons/boosts/arena.svg"
+  },
+  {
+    "title": "Arena\nPlacements",
+    "icon": "icons/boosts/arena-placement.svg"
+  },
+  {
+    "title": "Achievements Badges",
+    "icon": "icons/boosts/badges.svg"
+  },
+  {
+    "title": "Kill\nBoosting",
+    "icon": "icons/boosts/kill-boosting.svg"
+  },
+  {
+    "title": "Win\nBoosting",
+    "icon": "icons/boosts/win.svg"
+  }
+]
