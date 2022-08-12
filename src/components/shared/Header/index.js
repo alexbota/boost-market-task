@@ -19,26 +19,26 @@ export default function Header() {
                     <img src={'icons/rocket.svg'} alt='icon' /> 26 Boosters
                 </div>
                 <ul className='flex align-items-center justify-content-end list-none'>
-                    <li><Button>Blog</Button></li>
-                    <li><Button>Contact 24/7</Button></li>
-                    <li><Button className='flex align-items-center'><img src={'icons/flags/uk.svg'} alt='flag' />EN</Button></li>
+                    <li className='mx-4'><Button>Blog</Button></li>
+                    <li className='mx-4'><Button>Contact 24/7</Button></li>
+                    <li className='ml-4'><Button className='flex align-items-center'><img src={'icons/flags/uk.svg'} alt='flag' />EN</Button></li>
                 </ul>
             </div>
             <div style={{ height: '186px', padding: '0 260px' }} className='flex align-items-center justify-content-between font-semibold'>
                 <ul className='flex align-items-center list-none'>
-                    <li>
+                    <li className='mr-4'>
                         <Button><img src={'icons/logo.svg'} alt='logo' /></Button>
                     </li>
-                    <li>
+                    <li className='mx-3'>
                         <Button>Services</Button>
                     </li>
-                    <li>
+                    <li className='mx-3'>
                         <Button>Boosters</Button>
                     </li>
-                    <li>
+                    <li className='mx-3'>
                         <Button>Loyalty</Button>
                     </li>
-                    <li>
+                    <li className='mx-3'>
                         <Button className='color-secondary'>Account shop<img src={'icons/arrow.svg'} alt='icon' /></Button>
                     </li>
                 </ul>

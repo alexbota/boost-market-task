@@ -4,11 +4,11 @@
     "icon": "icons/boosts/default.svg"
   },
   {
-    "title": "Arena Rank\nBoosting",
+    "title": "Arena Rank Boosting",
     "icon": "icons/boosts/arena.svg"
   },
   {
-    "title": "Arena\nPlacements",
+    "title": "Arena Placements",
     "icon": "icons/boosts/arena-placement.svg"
   },
   {
@@ -16,11 +16,11 @@
     "icon": "icons/boosts/badges.svg"
   },
   {
-    "title": "Kill\nBoosting",
+    "title": "Kill Boosting",
     "icon": "icons/boosts/kill-boosting.svg"
   },
   {
-    "title": "Win\nBoosting",
+    "title": "Win Boosting",
     "icon": "icons/boosts/win.svg"
   }
 ]

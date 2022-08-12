@@ -3,10 +3,10 @@ import axios from 'axios';
 // MOCK-UP DATA
 import services from './data/services.json';
 import faq from './data/faq.json';
-import features from './data/faq.json';
+import features from './data/features.json';
 import reviews from './data/reviews.json';
-import trustpilot from './data/trustpilot.json';
-import tutorial from './data/tutorial.json';
+import steps from './data/steps.json';
+import { apiURL } from 'Common/constants';
 
 const api = {};
 
@@ -26,16 +26,12 @@ api.getReviews = () => new Promise(resolve => {
     resolve(reviews);
 });
 
-api.getTrustPilot = () => new Promise(resolve => {
-    resolve(trustpilot);
+api.getSteps = () => new Promise(resolve => {
+    resolve(steps);
 });
 
-api.getTutorial = () => new Promise(resolve => {
-    resolve(tutorial);
-});
-
-api.getApex = productIds => new Promise((resolve, reject) => {
-    axios.get('/product/search?references=' + productIds.join(',')).then(response => {
+api.getBoosters = () => new Promise((resolve, reject) => {
+    axios.get(`${apiURL}/api/boosters`).then(response => {
         if (response.error) {
             reject(response);
         } else {
@@ -43,3 +39,5 @@ api.getApex = productIds => new Promise((resolve, reject) => {
         }
     }).catch(console.error);
 });
+
+export default api;

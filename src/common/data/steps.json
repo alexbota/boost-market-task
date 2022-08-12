@@ -1,0 +1,35 @@
+[
+  {
+    "short_title": "Select Service",
+    "short_description": "Select and customize your desired service.",
+    "icon": "icons/tutorial/selection.svg",
+    "title": "Select Your Desired Service",
+    "description": "First, select your method of ranking up. There are various ways to reach your desired goal. Choose the one which fits most to your needs.",
+    "list": [
+      "Free additional customizations.",
+      "Intuitive and straightforward purchase process."
+    ]
+  },
+  {
+    "short_title": "Complete Payment",
+    "short_description": "Choose your preferred payment method.",
+    "icon": "icons/tutorial/coin-bag.svg",
+    "title": "Vel eros donec ac odio tempor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris.",
+    "list": [
+      "Consectetur adipiscing elit, sed do eiusmod.",
+      "Intuitive and straightforward purchase process."
+    ]
+  },
+  {
+    "short_title": "Rank up",
+    "short_description": "Follow your order and live chat with your booster.",
+    "icon": "icons/tutorial/rankup.svg",
+    "title": "Felis eget velit aliquet sagittis id",
+    "description": "Porttitor rhoncus dolor purus non. Lectus mauris ultrices eros in cursus. Justo eget magna fermentum iaculis eu non. Risus sed vulputate odio ut. Integer vitae justo eget magna fermentum iaculis eu non diam.",
+    "list": [
+      "Free additional customizations.",
+      "Esed do eiusmod tempor incididun."
+    ]
+  }
+]

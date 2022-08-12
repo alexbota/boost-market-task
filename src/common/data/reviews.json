@@ -1,21 +1,18 @@
-{
-  "average_rating": 4.86,
-  "reviews_count": 2066,
-  "reviews": [
-    {
-      "name": "Rinn",
-      "text": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
-      "rating": 4
-    },
-    {
-      "name": "Kyle",
-      "text": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
-      "rating": 4
-    },
-    {
-      "name": "Jack",
-      "text": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
-      "rating": 5
-    }
-  ]
-}
+[
+  {
+    "name": "Rinn****",
+    "review": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
+    "rating": 4
+  },
+  {
+    "name": "Kyle",
+    "review": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
+    "rating": 4
+  },
+  {
+    "name": "Jack",
+    "review": "it’s good just depends what game your boosting because it’s quicker on valorant than rainbow six segie. but that’s it.",
+    "rating": 5
+  }
+]
+

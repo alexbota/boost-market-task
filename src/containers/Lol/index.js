@@ -1,10 +1,9 @@
 import React from 'react';
-import MainLayout from 'Hoc/MainLayout';
 
 export default function Lol() {
     return (
-        <MainLayout>
-            <h1>Shop</h1>
-        </MainLayout>
+        <div className='w-screen h-screen flex justify-content-center align-items-center'>
+            <img src='https://img-9gag-fun.9cache.com/photo/awogrg8_460s.jpg' alt='' />
+        </div>
     );
 }
