@@ -43,7 +43,6 @@ export default function Steps({ stepsData }) {
                 })}
             </div>
             <div style={{
-                height: '522px',
                 borderRadius: '50px',
                 padding: '119px 110px',
             }} className='background-primary flex align-items-center justify-content-between'>
